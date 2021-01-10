@@ -99,9 +99,6 @@ figure img {
 }
 
 @media (min-width: 32.5em) {
-    body {
-        font-size: 0.8rem;
-    }
     h1 {
         font-size: 1.5rem;
     }
@@ -120,7 +117,7 @@ figure img {
         grid-template-columns: 27% auto;
     }
     figure {
-        margin: 4em 6em 1em 6em;
+        margin: 4em 35% 1em 35%;
     }
     article {
         margin-bottom: 3em;
